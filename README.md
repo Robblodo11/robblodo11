@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rob, a Business Intelligence Analyst Student @ Tripleten
-![Gmail Badge](https://img.shields.io/badge/robblodod11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&Link=mailto:robblodo11@gmail.com) (mailto:robblodo11@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/robblodod11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&Link=mailto:robblodo11@gmail.com)(mailto:robblodo11@gmail.com)
 ![Linkedin Badge](https://img.shields.io/badge/robert-lodovichetti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-lodovichetti/) (https://www.linkedin.com/in/robert-lodovichetti/) <p align='left'> Hi, Im Rob, a Business Intelligence Analyst student with experience on 6+ diverse technical projects. My skills include Business Analyctics, Data Visualization & Storytelling, Excel, SQL, Tableau and Power BI. Committed to leveraging data-driven solutions, I am eager to contribute my expertise to real-world challenges and continue evolving in the dynamic field of data analytics.
 
 - Currently, I am working on graduating the Tripleten Business Intelligence Analytics bootcamp. The curriculum focuses on Advanced Spreadsheets, SQL, Business Analytics, Tableau, Data Visualization, and Power BI
